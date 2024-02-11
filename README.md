@@ -9,21 +9,21 @@ atau
 * • Ubuntu 18.04 & 20.04
 * Working For VPS AWS,AZURE,DO
 ## Installation 
-## 0.
+## 1.
 <img src="https://img.shields.io/badge/Update%20_&_%20Upgrade-green">
 
   ```html
 apt update -y && apt install curl -y && apt install wget -y && apt install unzip -y && apt install perl -y && apt install socat -y && apt upgrade -y && update-grub
 ```
   
-## 1.
+## 2.
 <img src="https://img.shields.io/badge/Update%20_&_%20Upgrade-green">
 
   ```html
 rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-get update -y && apt-get upgrade && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip
 ```
   
-## 2.
+## 3.
 <img src="https://img.shields.io/badge/Login_Root%20VPS-green">
 
 * Login ke VPS dan Aktifkan Root Sementara & multi core untuk opox
@@ -36,7 +36,7 @@ sudo su
 
 ```
 
-## 3.
+## 4.
 
   <img src="https://img.shields.io/badge/Buat_Akses_Root%20VPS-green">
 
@@ -47,7 +47,7 @@ sudo su
   wget -qO- -O vpsroot.sh https://raw.githubusercontent.com/antinsp/bonetrojan/main/vpsroot.sh && bash vpsroot.sh
 ```
   
-### 4.
+### 5.
 
   <img src="https://img.shields.io/badge/Install_Semua_Layanan_VPN%20-green">
 
@@ -56,9 +56,7 @@ sudo su
 ```html
 wget https://raw.github.com/A2M7/Script/main/jejel/trojan && chmod +x trojan && ./trojan
 ```
-  
 
-# Script
 
 # Docker
 
