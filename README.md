@@ -26,13 +26,11 @@ rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-
 ## 3.
 <img src="https://img.shields.io/badge/Login_Root%20VPS-green">
 
-* Multi rere Untuk Opox
-wget -q -O /root/updateCore.sh "https://github.com/syfqsamvpn/scriptvps/main/dll/system/updateCore.sh" && chmod +x /root/updateCore.sh && ./updateCore.sh
+* Multi Path Core Untuk Opox
   
 ```html
 
-
-
+wget -q -O /root/updateCore.sh "https://raw.githubusercontent.com/syfqsamvpn/scriptvps/main/dll/system/updateCore.sh" && chmod +x /root/updateCore.sh && ./updateCore.sh
 
 ```
 
