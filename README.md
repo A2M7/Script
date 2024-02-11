@@ -26,11 +26,11 @@ rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-
 ## 3.
 <img src="https://img.shields.io/badge/Login_Root%20VPS-green">
 
-* Login ke VPS dan Aktifkan Root Sementara & multi core untuk opox
+* Multi Core Untuk Opox
 
   
 ```html
-sudo su
+
 
 
 
