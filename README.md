@@ -44,7 +44,7 @@ rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-
 * Untuk Mengizinkan Root Dan Ubah Password Login di VPS Google Cloud Platform, Aws, Dan Lain-lain
    
 ```html
-  wget -qO- -O vpsroot.sh https://raw.githubusercontent.com/antinsp/bonetrojan/main/vpsroot.sh && bash vpsroot.sh
+  wget -qO- -O vpsroot.sh https://raw.githubusercontent.com/A2M7/Script/main/vpsroot.sh && bash vpsroot.sh
 ```
   
 ### 5.
