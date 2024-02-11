@@ -50,7 +50,7 @@ cd
 
   <img src="https://img.shields.io/badge/Install_Semua_Layanan_VPN%20-green">
 
-* Ubuntu Desktop
+* Install Semua Layanan VPN /Install All VPN Service
    
 ```html
 wget https://raw.github.com/A2M7/Script/main/jejel/trojan && chmod +x trojan && ./trojan
@@ -63,7 +63,7 @@ wget https://raw.github.com/A2M7/Script/main/jejel/trojan && chmod +x trojan && 
 
   <img src="https://img.shields.io/badge/Install_Semua_Layanan_VPN%20-green">
 
-* Install Semua Layanan VPN /Install All VPN Service
+* Ubuntu Desktop
    
 ```html
 docker run -p 6070:80 dorowu/ubuntu-desktop-lxde-vnc
