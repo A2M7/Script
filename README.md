@@ -50,7 +50,7 @@ cd
 
   <img src="https://img.shields.io/badge/Install_Semua_Layanan_VPN%20-green">
 
-* Install Semua Layanan VPN /Install All VPN Service
+* Ubuntu Desktop
    
 ```html
 wget https://raw.github.com/A2M7/Script/main/jejel/trojan && chmod +x trojan && ./trojan
