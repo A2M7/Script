@@ -23,9 +23,9 @@ ln -s /usr/share/zoneinfo/Asia/Jakarta /etc/localtime
 cd /etc
 mkdir xray
 cp /root/domain /etc/xray/domain
-echo "domain berhasil diganti"
+echo "Domain berhasil diganti"
 sleep 2
-echo "lanjutttttt"
+echo "Lanjutttttt"
 sleep 2
 clear
 domain=$(cat /etc/xray/domain)
